@@ -1,0 +1,37 @@
+
+.navbutton{
+	cursor: pointer;
+	position: relative;
+	display: grid;
+	align-items: center;
+	justify-items: center;
+	width: 75px;
+	height: 48px;
+
+}
+.navbutton__icon{
+
+}
+.navbutton__text{
+	color: #000000;
+	font-size: 14px;
+line-height: 16px;
+
+}
+.navbutton__count{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	width: 35px;
+	height: 19px;
+	font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+color: #FFFFFF;
+background: #4D96FF;
+border-radius: 10px;
+}

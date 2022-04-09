@@ -1,0 +1,21 @@
+.products{
+margin-bottom: 30px;
+transition: all 0.3s ease;
+
+}
+.products__title{
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+color: #000000;
+margin-bottom: 40px;
+
+}
+.products__body{
+
+}
+.products__items{
+	display: grid;
+	grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
+	gap: 50px 30px;
+}

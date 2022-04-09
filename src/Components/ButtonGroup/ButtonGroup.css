@@ -1,0 +1,6 @@
+.items{
+	display: flex;
+}
+.items>*:not(:last-child){
+ margin-right: 20px;
+}

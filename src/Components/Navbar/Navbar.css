@@ -1,0 +1,13 @@
+.navbar{
+	min-height: 80px;
+}
+.navbar>*:not(:last-child){
+	margin-bottom: 25px;
+}
+.navbar__top{
+	min-height: 80px;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap: wrap;
+	align-items: center;
+}
