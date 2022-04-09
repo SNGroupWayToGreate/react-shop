@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-shop/static/css/main.d53cf08f.css",
+    "main.js": "/react-shop/static/js/main.47a1c13d.js",
+    "static/media/Spinner.gif": "/react-shop/static/media/Spinner.e9202c75d969bfbffe5a.gif",
+    "static/media/MaxProff.svg": "/react-shop/static/media/MaxProff.1dcd68f4ed6b10ee2c1a475f5a2187c6.svg",
+    "static/media/default.svg": "/react-shop/static/media/default.5b1e4c28636d42ca3b26470001b82fd8.svg",
+    "index.html": "/react-shop/index.html",
+    "static/media/Shape.svg": "/react-shop/static/media/Shape.ffa499e2aaf2989e555e87cd7eba7c07.svg",
+    "static/media/Man.svg": "/react-shop/static/media/Man.a0bdd91fc5330eacd2e25742d4d279ec.svg",
+    "static/media/chart.svg": "/react-shop/static/media/chart.b80a0aa3a738c51d3ad792c27902da25.svg",
+    "main.d53cf08f.css.map": "/react-shop/static/css/main.d53cf08f.css.map",
+    "main.47a1c13d.js.map": "/react-shop/static/js/main.47a1c13d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d53cf08f.css",
+    "static/js/main.47a1c13d.js"
+  ]
+}
